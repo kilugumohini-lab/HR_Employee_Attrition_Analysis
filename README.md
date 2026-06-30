@@ -85,7 +85,8 @@ These filters allow users to interact with the dashboard and analyze specific em
 
 ## 📷 Dashboard Preview
 
-*(Add your dashboard screenshot here.)*
+<img width="1157" height="639" alt="Screenshot 2026-06-30 173253" src="https://github.com/user-attachments/assets/2b77b026-146e-4f50-a685-d4069b07a0ab" />
+
 
 ## 📌 Conclusion
 
