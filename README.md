@@ -93,8 +93,8 @@ This dashboard provides a clear overview of employee attrition and helps identif
 
 ## 👤 Author
 
-**Mohini Kilugu**
-**Course – Computer Science Engineering**
-**Email - kilugumohini@gmail.com**
+Mohini Kilugu
+Course – Computer Science Engineering
+Email - kilugumohini@gmail.com
 
 
